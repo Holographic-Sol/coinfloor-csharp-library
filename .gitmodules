@@ -1,0 +1,3 @@
+[submodule "java-library"]
+	path = java-library
+	url = https://github.com/coinfloor/java-library.git
